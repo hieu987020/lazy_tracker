@@ -12,11 +12,11 @@ workflows:
       ndk: r21d         # Define default or revision (e.g. r19c)
       java: 1.8         # Define default, or platform version (e.g. 11)
       ruby: 2.7.2       # Define default or version
-    cache:
-    triggering:
-    scripts:
-    artifacts: 
-    publishing: 
+    # cache:
+    # triggering:
+    # scripts:
+    # artifacts: 
+    # publishing: 
     
     # groups:             # Define your environment variables groups here
     # - keystore_credentials
